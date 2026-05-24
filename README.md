@@ -1,6 +1,6 @@
 # 🛒 Olist E-Commerce Analytics — SQL + PostgreSQL
 
-> Análise exploratória de dados reais de uma das maiores plataformas de e-commerce do Brasil, com foco em performance de vendas, logística, comportamento de clientes e saúde do negócio.
+> Análise de dados de uma das maiores plataformas de e-commerce do Brasil, com foco em performance de vendas, logística, comportamento de clientes e saúde do negócio.
 
 ---
 
